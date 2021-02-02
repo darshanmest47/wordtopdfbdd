@@ -1,0 +1,5 @@
+ControlFocus("File Upload","","Edit1")
+Sleep(5)
+ControlSetText("File Upload","","Edit1","E:\wordtopdfbdd\resumes\Darshan_Resume.pdf")
+Sleep(5)
+ControlClick("File Upload","","Button1")
